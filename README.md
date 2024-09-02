@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=30&duration=3000&pause=500&color=7C00FE&width=435&lines=Hello!+I'm+Siddh;Software+Developer;Eternally+a+Scholar)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🎓 I'm a Fourth-Year CS Student At The University of British Columbia<br><br>🔭 I’m currently working on a React Next.js application designed to provide an engaging Python learning experience<br><br>🤝 I'm looking to collaborate on open-source projects focused on Web Development, AI, and Machine Learning<br><br>🎉 Fun fact: Undefeated against Roger Federer
+🎓 Fourth-Year CS Student At The University of British Columbia<br><br>🔭 Currently working on a React Next.js application designed to provide an engaging Python learning experience<br><br>🤝 Looking to collaborate on open-source projects focused on Web Development, AI, and Machine Learning<br><br>🎉 Fun fact: Undefeated against Roger Federer
 
 
 ## 🌐 Socials:
