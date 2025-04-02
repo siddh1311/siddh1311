@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=30&duration=3000&pause=500&color=7C00FE&width=435&lines=Hello!+I'm+Siddh;Software+Developer;Eternally+a+Scholar)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🎓 Fourth-Year CS Student At The University of British Columbia<br><br>🏎️ Mclaren F1 fan
+🎓 4th year CS @ UBC<br><br>🏎️ Self assigned honorary MclarenF1 driver
 
 
 ## 🌐 Socials:
