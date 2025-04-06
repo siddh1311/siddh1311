@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=30&duration=3000&pause=500&color=7C00FE&width=440&lines=Part-time+Software+Engineer)](https://git.io/typing-svg) -->
 
 # 💫 About Me:
-💼 SDE Intern @ SAP<br><br>🎓 4th year CS @ UBC<br><br>🏎️ Aspiring reserve Mclaren F1 driver
+💼 SDE Intern @ SAP<br><br>🎓 4th year CS @ UBC<br><br>🏎️ Aspiring reserve McLaren F1 driver
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-siddh/) 
